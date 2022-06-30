@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39e63346fb24136478a9c077c690e099, type: 3}
+  m_Name: Shape Config
+  m_EditorClassIdentifier: 
+  T_Color: {r: 0.6, g: 0, b: 0.9960785, a: 1}
+  O_Color: {r: 0.9960785, g: 0.9960785, b: 0, a: 1}
+  Z_Color: {r: 0.9960785, g: 0, b: 0, a: 1}
+  S_Color: {r: 0.2573174, g: 0.99607843, b: 0, a: 1}
+  I_Color: {r: 0, g: 0.93820983, b: 0.99607843, a: 1}
+  L_Color: {r: 0, g: 0, b: 0.9960785, a: 1}
+  J_Color: {r: 0.99607843, g: 0.53494984, b: 0, a: 1}
+  T_Sprite: {fileID: 21300000, guid: 977a0c8a2b922fd4ead67422867280d7, type: 3}
+  O_Sprite: {fileID: 21300000, guid: 9975557f59c9c29438987741905d3ac7, type: 3}
+  Z_Sprite: {fileID: 21300000, guid: 81affac5d58a75a49918cb7af8c9d0e2, type: 3}
+  S_Sprite: {fileID: 21300000, guid: 170685775185f0f409f124a4d212de4c, type: 3}
+  I_Sprite: {fileID: 21300000, guid: 6aa0810a1309e084899dc6bd10cb47ea, type: 3}
+  L_Sprite: {fileID: 21300000, guid: 070a846a7c5b38f44974f35bbacfcbcb, type: 3}
+  J_Sprite: {fileID: 21300000, guid: 3235b46c66733464782dd4a18261f729, type: 3}
